@@ -1,0 +1,6 @@
+path: /home/bizais/Documents/Distam/2026/cormatusj2026/DATA/test_yolo
+train: train/images
+val: val/images
+nc: 11  # Number of classes
+names: ['Correctifs','Date','Exergue','InterligneAsterisque','LigneDeProse','N°Page','Titre de l’œuvre','TitreCourant','TitrePoeme','Vers','Édition'] # Class names
+

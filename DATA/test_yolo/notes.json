@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Correctifs"
+    },
+    {
+      "id": 1,
+      "name": "Date"
+    },
+    {
+      "id": 2,
+      "name": "Exergue"
+    },
+    {
+      "id": 3,
+      "name": "InterligneAsterisque"
+    },
+    {
+      "id": 4,
+      "name": "LigneDeProse"
+    },
+    {
+      "id": 5,
+      "name": "N\u00b0Page"
+    },
+    {
+      "id": 6,
+      "name": "Titre de l\u2019\u0153uvre"
+    },
+    {
+      "id": 7,
+      "name": "TitreCourant"
+    },
+    {
+      "id": 8,
+      "name": "TitrePoeme"
+    },
+    {
+      "id": 9,
+      "name": "Vers"
+    },
+    {
+      "id": 10,
+      "name": "\u00c9dition"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
